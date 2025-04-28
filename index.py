@@ -19,3 +19,4 @@ boton.pack(pady=20)
 
 #iniciar el bucle principal de la interfaz grafica
 ventana.mainloop()
+
